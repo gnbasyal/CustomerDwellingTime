@@ -1,0 +1,23 @@
+/*
+ * Chef        : gnbasyal
+ * Chef-Id     : pvr2114
+ * Dish        : launch
+ * Created on  : Saturday, 25th September 2021 12:21:18 pm
+ */
+
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}

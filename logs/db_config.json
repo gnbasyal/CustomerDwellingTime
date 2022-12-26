@@ -1,0 +1,6 @@
+{
+    "db_name": "Supermarket",
+    "driver": "{SQL Server Native Client 11.0}",
+    "host": "jrkv5z2",
+    "server": "LVSEJHRTIP2"
+}
